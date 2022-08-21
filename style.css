@@ -39,7 +39,7 @@ nav .container ul li a {
   background-image: url(./img/image2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-
+background-attachment: fixed;
   height: 70vh;
 }
 .main .container {
@@ -76,6 +76,7 @@ nav .container ul li a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position:0;
+  background-attachment: fixed;
   height: 18vh;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -114,6 +115,7 @@ nav .container ul li a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:0;
+  background-attachment: fixed;
     height: 15vh;
     margin-top: 50px;
     margin-bottom: 70px;
